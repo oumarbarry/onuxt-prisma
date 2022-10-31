@@ -14,7 +14,7 @@ specifiers:
   eslint: 8.23.1
   eslint-config-prettier: 8.5.0
   eslint-plugin-jsonc: 2.4.0
-  eslint-plugin-vue: 9.4.0
+  eslint-plugin-vue: 9.7.0
   eslint-plugin-yml: 1.2.0
   happy-dom: 6.0.4
   husky: 8.0.1
@@ -54,7 +54,7 @@ devDependencies:
   eslint: 8.23.1
   eslint-config-prettier: 8.5.0_eslint@8.23.1
   eslint-plugin-jsonc: 2.4.0_eslint@8.23.1
-  eslint-plugin-vue: 9.4.0_eslint@8.23.1
+  eslint-plugin-vue: 9.7.0_eslint@8.23.1
   eslint-plugin-yml: 1.2.0_eslint@8.23.1
   happy-dom: 6.0.4
   husky: 8.0.1
@@ -3310,8 +3310,8 @@ packages:
       natural-compare: 1.4.0
     dev: true
 
-  /eslint-plugin-vue/9.4.0_eslint@8.23.1:
-    resolution: {integrity: sha512-Nzz2QIJ8FG+rtJaqT/7/ru5ie2XgT9KCudkbN0y3uFYhQ41nuHEaboLAiqwMcK006hZPQv/rVMRhUIwEGhIvfQ==}
+  /eslint-plugin-vue/9.7.0_eslint@8.23.1:
+    resolution: {integrity: sha512-DrOO3WZCZEwcLsnd3ohFwqCoipGRSTKTBTnLwdhqAbYZtzWl0o7D+D8ZhlmiZvABKTEl8AFsqH1GHGdybyoQmw==}
     engines: {node: ^14.17.0 || >=16.0.0}
     peerDependencies:
       eslint: ^6.2.0 || ^7.0.0 || ^8.0.0
