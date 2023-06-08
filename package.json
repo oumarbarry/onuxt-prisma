@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@pinia/nuxt": "0.4.2",
-    "zod": "3.19.1"
+    "zod": "3.21.4"
   },
   "devDependencies": {
     "@iconify/json": "2.1.106",
